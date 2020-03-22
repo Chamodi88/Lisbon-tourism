@@ -3,7 +3,7 @@ Group project seminar, Master of Geospatial Technologies, NOVA IMS
 
 This application has been developed using Geodjango to provide information on tourists attractions in Lisbon and determined the nearest locations based on the user's current location.
 
-Requirements - python - postgreSQL - django - Libraries (GEOS, GDAL, PROJ.4, PostGIS) - django-leaflet - crspy-forms
+Requirements /- python - postgreSQL - django - Libraries (GEOS, GDAL, PROJ.4, PostGIS) - django-leaflet - crspy-forms
 
 Installation
 
