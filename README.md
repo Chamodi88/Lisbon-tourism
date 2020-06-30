@@ -23,7 +23,3 @@ Installation
 6. Open the web browser and navigate to http://localhost:8000/appgps/
 
 
-Demonstration on the App
-
-
-![](demo.gif)
