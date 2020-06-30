@@ -21,3 +21,7 @@ Installation
 4. upload the data using following command in the commad prompt pointing to the data folder ogr2ogr.exe -f "PostgreSQL" PG:"dbname=dbname user=username password=password" "data.shp" -nln "appgps_attraction" -append
 5. Go back to the folder where manage.py is and run the following command to turn on the server python manage.py runserver
 6. Open the web browser and navigate to http://localhost:8000/appgps/
+
+
+Demonstration on the App
+![](demo.mp4)
