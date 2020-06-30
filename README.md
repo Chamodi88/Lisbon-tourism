@@ -24,4 +24,4 @@ Installation
 
 
 Demonstration on the App
-![](demo.mp4)
+![](demo.gif)
