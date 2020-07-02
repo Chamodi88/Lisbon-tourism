@@ -3,7 +3,7 @@ Group project seminar, Master of Geospatial Technologies, NOVA IMS
 
 This application has been developed using Geodjango to provide information on tourists attractions in Lisbon and determined the nearest locations based on the user's current location.
 
-Requirements 
+## Requirements 
    - python 
    - postgreSQL 
    - django 
@@ -11,7 +11,7 @@ Requirements
    - django-leaflet 
    - crspy-forms
 
-Installation
+## Installation
 
 1. Create a database for the project
 2. Change database settings inside the settings.py to match with yours
@@ -21,5 +21,12 @@ Installation
 4. upload the data using following command in the commad prompt pointing to the data folder ogr2ogr.exe -f "PostgreSQL" PG:"dbname=dbname user=username password=password" "data.shp" -nln "appgps_attraction" -append
 5. Go back to the folder where manage.py is and run the following command to turn on the server python manage.py runserver
 6. Open the web browser and navigate to http://localhost:8000/appgps/
+
+## Web application user interface
+
+<p align="center">
+   <img src="image.png" >
+ </p>
+
 
 
